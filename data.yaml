@@ -31,3 +31,16 @@ services:
   - name: "service2"
     url: "http://service2.example.com"
     enabled: false
+
+test:
+  enabled: true
+  test_cases:
+    - id: 1
+      description: "Test case 1"
+      expected_result: "Success"
+    - id: 2
+      description: "Test case 2"
+      expected_result: "Failure"
+  - id: 3
+      description: "Test case 3"
+      expected_result: "Pending
