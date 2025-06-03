@@ -34,11 +34,11 @@ services:
 
 projectversion: "1.68.0"
 
-jenkins_demo:
+jenkinsdemo:
   version: "1.3.0"
 
-jenkins_demo2:
+jenkinsdemo2:
   version: "1.35.0"
 
-jenkins_demo3:
+jenkinsdemo3:
   version: "1.40.0"
