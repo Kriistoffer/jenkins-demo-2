@@ -32,6 +32,8 @@ services:
     url: "http://service2.example.com"
     enabled: false
 
+projectversion: "1.68.0"
+
 jenkins-demo:
   version: "1.3.0"
 
